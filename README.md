@@ -13,7 +13,7 @@ Esta aplicación es para **Android** funciona grabando ya sea:
 4. Javier
 5. Diana
 
-| id | composable |
+|id|composable|
 |-----------------|
-| 1 | MainView |
-| 2 | SecondaryView |
+|1|MainView|
+|2|SecondaryView|
